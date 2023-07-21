@@ -2,5 +2,5 @@
 let Last_name=document.getElementById('lname');
 
 function getFormvalue(){
-    alert(`${first_name.value} ${last_name.value}`);
+    alert(`${First_name.value} ${Last_name.value}`);
 }
