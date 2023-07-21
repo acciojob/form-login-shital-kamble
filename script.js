@@ -1,5 +1,5 @@
- let First_name=document.getElementById('form1');
-let Last_name=document.getElementById('form1');
+ let First_name=document.getElementById('fname');
+let Last_name=document.getElementById('lname');
 
 function getFormvalue(){
     alert(`${First_name.value} ${Last_name.value}`);
